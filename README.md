@@ -7,7 +7,7 @@ The rise of commonplace synthetic media is an emerging threat in the modern worl
 
 Possible designs for the front-end of the Clarity system are given below:
 
-![alt text](https://github.com/Jvroo/PovertyFromSpace/blob/main/Images/Image1.png?raw=true)
-![alt text](https://github.com/Jvroo/PovertyFromSpace/blob/main/Images/Image2.png?raw=true)
-![alt text](https://github.com/Jvroo/PovertyFromSpace/blob/main/Images/Image3.png?raw=true)
-![alt text](https://github.com/Jvroo/PovertyFromSpace/blob/main/Images/Image4.png?raw=true)
+![alt text](https://github.com/Jvroo/Clarity/blob/main/Images/Image1.png?raw=true)
+![alt text](https://github.com/Jvroo/Clarity/blob/main/Images/Image2.png?raw=true)
+![alt text](https://github.com/Jvroo/Clarity/blob/main/Images/Image3.png?raw=true)
+![alt text](https://github.com/Jvroo/Clarity/blob/main/Images/Image4.png?raw=true)
